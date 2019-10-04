@@ -1,2 +1,2 @@
-# My_data_structure-in-C-
+# My_data_structure-in-C++
 Data Structure Implementation in C++
